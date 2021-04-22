@@ -11,7 +11,7 @@ namespace g3
     {
         Ok = 0,
 
-        FileAccessError = 1,
+        FileAccessError = 2,
         UnknownFormatError = 2,
         FormatNotSupportedError = 3,
         InvalidFilenameError = 4,
